@@ -78,5 +78,7 @@ voice_classifier/
 4. Open `http://127.0.0.1:5000` in a browser, record audio, and click "Predict".
 
 ### UI Overview:
-![alt text](image.png)
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/80b7cdf1-08e0-4004-b106-26d18814f934)
+
+![image](https://github.com/user-attachments/assets/b99e2b78-def0-4adb-a13f-d2a98fa2699f)
+
