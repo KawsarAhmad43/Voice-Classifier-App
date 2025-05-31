@@ -1,0 +1,9 @@
+# Ignore Python virtual environment
+venv/
+venv/**
+
+# Ignore model and data files in root
+features.npy
+labels.npy
+scaler.joblib
+voice_classifier_model.pkl
